@@ -1,0 +1,4 @@
+Menu Items:
+1. Margherita Pizza - Rs. 299
+2. Veg Burger - Rs. 149
+3. Pasta Alfredo - Rs. 249
